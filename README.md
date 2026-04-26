@@ -1,13 +1,13 @@
 # CS340-Portfolio  
 MongoDB Dashboard Project - SNHU CS340  
 
-This project demonstrates building a full-stack data dashboard using MongoDB, Python, and Dash for Grazioso Salvare.
+This project is a dashboard I built using MongoDB, Python, and Dash. It was designed to help organize and display data for Grazioso Salvare.
 
 How do you write programs that are maintainable, readable, and adaptable?  
-I learned to write code step by step and keep things organized by separating parts of the program. Using the CRUD Python module helped a lot because it kept all database operations in one place. This made the code easier to read, reuse, and fix if something went wrong. In the future, I could reuse this CRUD module for other projects that need a database connection without starting over.
+I learned that breaking things down step by step really helps. Instead of putting everything in one place, I used a CRUD Python module to handle the database parts. That made it easier to read and fix if something went wrong. It also made it easier to reuse later, which I think will help me in future projects.
 
 How do you approach a problem as a computer scientist?  
-I approach problems by breaking them into smaller steps. For this project, I first made sure the database worked, then built the dashboard layout, and finally connected everything together. This was different from earlier assignments because this project required both front-end and back-end thinking. In the future, I will continue to plan first, test often, and build step by step.
+I try to take things one step at a time. For this project, I made sure the database worked first, then worked on the dashboard, and then connected everything together. This was different from earlier classes because I had to think about both the backend and what the user sees. Going forward, I would keep using this step-by-step approach.
 
 What do computer scientists do, and why does it matter?  
-Computer scientists solve problems by building systems that organize, process, and display data. In this project, the dashboard helps a company quickly find important information about rescue dogs. This matters because it saves time, improves decisions, and makes data easier to understand. My work shows how technology can support real-world business needs.
+Computer scientists build things that help solve problems and make life easier. In this project, the dashboard helps a company quickly look through data and find what they need. This matters because it saves time and helps people make better decisions.
